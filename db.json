@@ -1,0 +1,79 @@
+{
+  "signup": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "fname": "Manoj",
+      "lname": "Adhikari",
+      "email": "manojmonuadhikari",
+      "phoneno": "9354618972",
+      "password": "adhikari",
+      "id": 2
+    },
+    {
+      "fname": "shivam",
+      "lname": "adhikari",
+      "email": "shivamadhikari@gmail.com",
+      "phoneno": "9354618972",
+      "password": "adhikari",
+      "id": 3
+    },
+    {
+      "fname": "arnav",
+      "lname": "bisht ",
+      "email": "arnavbist",
+      "phoneno": "234234",
+      "password": "BISHT",
+      "id": 4
+    },
+    {
+      "fname": "mahi",
+      "lname": "adhikari",
+      "email": "mahiadhikari@gmail.com",
+      "phoneno": "234234",
+      "password": "mahi",
+      "id": 5
+    },
+    {
+      "fname": "mohan",
+      "lname": "adhikari",
+      "email": "mohanadhikari@gmail.com",
+      "phoneno": "34234",
+      "password": "adahisdf",
+      "id": 6
+    }
+  ],
+  "userdata": [
+    {
+      "email": "shivam",
+      "password": "adhikari",
+      "address": "mv-phase-3",
+      "address2": "rc-122",
+      "city": "uttrapdesh",
+      "state": "One",
+      "zip": "201308",
+      "school": "CBSE",
+      "gpa": "76",
+      "gra": null,
+      "checkme": true,
+      "id": 1
+    },
+    {
+      "email": "Shibu Adhikari",
+      "password": "adhikari",
+      "address": "mv-phase-3",
+      "address2": "Rc-122",
+      "city": "Uttra Pradesh",
+      "state": "One",
+      "zip": "201309",
+      "school": "CBSE",
+      "gpa": "59%",
+      "gra": 17,
+      "checkme": true,
+      "id": 2
+    }
+  ]
+}
